@@ -15,7 +15,7 @@ public class RoverScoop : MonoBehaviour
     {
         if (other.CompareTag("rover"))
         {
-            other.gameObject.GetComponent<RoverAnimationController>().Stop();
+            //other.gameObject.GetComponent<RoverAnimationController>().Stop();
             other.gameObject.GetComponent<RoverAnimationController>().StartBucket();
         }
 

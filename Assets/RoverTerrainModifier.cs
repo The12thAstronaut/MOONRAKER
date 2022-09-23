@@ -17,6 +17,7 @@ public class RoverTerrainModifier : MonoBehaviour
         if (collision.CompareTag("rover"))
         {
             terrainTool.RaiseTerrain(collision.transform.position, terrainTool.strength, terrainTool.brushHeight, terrainTool.brushHeight);
+            collision.gameObject.GetComponent<RoverAnimationController>().StartBucket();
         }
     }
 }
