@@ -3,7 +3,47 @@ guid: 89b479069c5ad40599e4164868c34cf2
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange_2
+    second: {fileID: 2100000, guid: dbcc8c630c7f34cfabb717361a221225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100000, guid: 19b1ce4729f9f4e688823539a0aabd9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red1
+    second: {fileID: 2100000, guid: a880a7fecf47e4ac597bdc072a004d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel
+    second: {fileID: 2100000, guid: 5517fe5c612774a5c931e9be85841ac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel_2
+    second: {fileID: 2100000, guid: 18929c9e2da8c4978ad3f224a3ddcc6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel_3
+    second: {fileID: 2100000, guid: 966603e34d64c43dbb1bbcc13324628f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 75cc2c2c3115b46e2a7ca8321634619d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: f5b0662d5e0ef4001b45e4a2f0d73e56, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
